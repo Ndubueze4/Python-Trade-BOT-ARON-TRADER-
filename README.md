@@ -1,7 +1,5 @@
-# Python-Trade-BOT-ARON-TRADER-
+# Python-Algorithmic Trading-BOT-ARON-TRADER-
 This project is a modular, automated trading system built in Python. It leverages real-time market data to execute trades based on predefined technical indicators and risk management strategies.
-
-# Python Algorithmic Trading Bot 📈
 
 A robust, modular automated trading bot designed to execute strategies across various financial markets using Python.
 
@@ -13,7 +11,7 @@ A robust, modular automated trading bot designed to execute strategies across va
 * **Logging & Alerts:** Detailed transaction logs and optional Telegram/Discord notifications.
 
 ## 🏗️ Architecture
-
+passkey: 1234567890#12345678901#
 
 ## 🚀 Getting Started
 
