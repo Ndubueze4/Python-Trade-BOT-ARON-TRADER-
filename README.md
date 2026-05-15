@@ -23,7 +23,7 @@ passkey: 1234567890#12345678901#
 ### Installation
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/ndubueze4/trade-bot-aron-trader.git](https://github.com/ndubueze4/python trade-bot-aron-trader.git)
+   git clone [https://github.com/ndubueze4/pyrhon-trade-bot-aron-trader.git](https://github.com/ndubueze4/python-trade-bot-aron-trader.git)
    cd trade-bot
 
 ⚠️ RISK DISCLAIMER
