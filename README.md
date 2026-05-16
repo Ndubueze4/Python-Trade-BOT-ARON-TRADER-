@@ -24,7 +24,7 @@ passkey: 1234567890#12345678901#
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/ndubueze4/Python-Trade-BOT-ARON-TRADER-.git
-   cd trade-bot
+   cd Python-Trade-BOT-ARON-TRADER-
 
 ⚠️ RISK DISCLAIMER
 This automated trading bot is a software tool designed to assist with market analysis and trade execution. It does not guarantee profits or successful trading outcomes. Financial markets are highly volatile and involve significant risk.
